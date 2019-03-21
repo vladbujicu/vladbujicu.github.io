@@ -1,0 +1,20 @@
+.container {
+	position: relative;
+	max-width: 100%;
+	max-height: 100%;
+	text-align: center;
+}
+
+.container img {
+	width: 100%;
+	height: auto;
+}
+
+.container .btn {
+	position: absolute;
+	top: 75%;
+	}
+
+.container .btn:hover {
+	background-color: black;
+}
